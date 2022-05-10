@@ -1,5 +1,5 @@
 {
-  "name": "<%= className %>",
+  "name": "<%= name %>",
   "version": "<%= version %>",
   "description": "<%= description %>",
   "private": true,
